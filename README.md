@@ -1,7 +1,7 @@
 # IDF Telegram Channel News Dataset
 
 ## Overview
-This dataset is scraped from the IDF Telegram channel, the official “Israeli”  news update channel. It contains structured information extracted from news posts, which includes publication dates, textual content, and entities mentioned in the text. The dataset is ideal for natural language processing (NLP) tasks, entity recognition, and trend analysis.
+IDF Telegram Channel News Dataset is scraped from the IDF Telegram channel, the official Israeli news update channel, for the period between October 7, 2023, and June 20, 2024. It contains structured information extracted from news posts, including publication dates, textual content, and entities mentioned in the text. The dataset is ideal for natural language processing (NLP) tasks, entity recognition, and trend analysis. The first version of this dataset contains news from October 7, 2023, to April 23, 2024. The next version will be published with more statistics and features.
 
 ## Features
 The dataset includes the following features:
