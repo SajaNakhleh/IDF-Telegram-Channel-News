@@ -57,14 +57,21 @@ An example entry in the dataset is as follows:
 ```
 
 ## Access
-The dataset is available on GitHub at [repository link]. Users can clone the repository or download the dataset directly from the releases section.
+The dataset is available on GitHub at [(https://github.com/SajaNakhleh/IDF-Telegram-Channel-News/)]. Users can clone the repository or download the dataset directly from the releases section.
 
 ## Contributions
 Contributions to the dataset, such as improving the scraping methods, expanding the feature set, or enhancing data quality, are welcome. Please refer to the contribution guidelines in the repository.
 
 ## License
-If you use IDF in your research, please cite the following paper:
-bibtex @article{ }
+If you use IDF in your research, please cite the following DOI:
+bibtex @misc{haneen_alhamad_saja_nakhleh_2024,
+	title={IDF Telegram Channel News Dataset},
+	url={https://www.kaggle.com/dsv/8509556},
+	DOI={10.34740/KAGGLE/DSV/8509556},
+	publisher={Kaggle},
+	author={Haneen AlHamad and Saja Nakhleh},
+	year={2024}
+}
 
 
 For any questions or support, please open an issue in the GitHub repository.
